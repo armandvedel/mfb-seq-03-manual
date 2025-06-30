@@ -64,6 +64,7 @@ ${\color{red} III. \space Track \space [per \space output] \space (track \space 
 	7. Clr bar
         
 ${\color{red} IV. \space Step \space Edit }$
+${\color{red} \text{IV. Step Edit press select}}$
 
 	SELECT
 

@@ -5,8 +5,6 @@ mfb
 
 PRESS TRACK TO TOGGLE MUTE / PATTERN
 
-$${\color{red}Red}$$
-
 $${\color{green} Mute \space Mode \space (track \space light \space green)}$$ 
 
 II. Pattern (global / all tracks) mode (track light red) 

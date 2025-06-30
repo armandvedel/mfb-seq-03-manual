@@ -37,7 +37,8 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	Load Pattern (hold load + 1-16)
 	change Bank (hold shift + load patt)
 
-${\color{red} III. \space Track \space [per \space output] \space (track \space + \space 1-12) \space (track \space light \space red)}
+${\color{red} III. \space Track \space [per \space output] \space (track \space + \space 1-12) \space (track \space light \space red)}$
+
 	SHIFT + 3-7
 
 	3. Track Mode

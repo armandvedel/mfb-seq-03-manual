@@ -65,7 +65,7 @@ ${\color{red} III. \space Track \space [per \space output] \space (track \space 
         
 ${\color{red} IV. \space Step \space Edit \space (press \space select \space step(s) \space selected \space blink(s) \space (track \space light \space red))}$
 
-${\color{red} IV. \space Step \space Edit \space press \space select \space steps)}$
+${\color{red} IV. \space Step \space Edit \space press \space select \space steps}$
 
 	SELECT
 

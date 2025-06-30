@@ -18,7 +18,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	|	
 	|	(3-7 are track functions)
 	|
-     	Bar length 
+ 	Bar length 
 	Bar up/down
 	8. rem(ove) bar
 	9. clr pattern

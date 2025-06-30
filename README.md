@@ -63,7 +63,7 @@ ${\color{red} III. \space Track \space [per \space output] \space (track \space 
 		4. Square
 	7. Clr bar
         
-${\color{red} IV. \space Step \space Edit \spacepress \space select \space steps \space blinks}$
+${\color{red} IV. \space Step \space Edit \space press \space select \space steps \space blinks}$
 
 	SELECT
 

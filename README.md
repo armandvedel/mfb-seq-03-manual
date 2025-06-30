@@ -7,6 +7,8 @@ PRESS TRACK TO TOGGLE MUTE / PATTERN
 
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
 
+	Step keys toggle mute for each track
+ 
 ${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space mode \space (track \space light \space red)}$
 
 	SHIFT + 1-2, 8-16
@@ -35,7 +37,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	Load Pattern (hold load + 1-16)
 	change Bank (hold shift + load patt)
 
-III. Track [per output] (track + 1-12)  (track light red)
+${\color{red} III. \space Track \space [per \space output] \space (track \space + \space 1-12) \space (track \space light \space red)}
 	SHIFT + 3-7
 
 	3. Track Mode

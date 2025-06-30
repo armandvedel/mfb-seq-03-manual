@@ -7,7 +7,7 @@ PRESS TRACK TO TOGGLE MUTE / PATTERN
 
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
 
-II. Pattern (global / all tracks) mode (track light red) 
+${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space mode \space (track \space light \space red)}$
 	SHIFT + 1-2, 8-16
 	
 	1. Last step (affects all Bars)

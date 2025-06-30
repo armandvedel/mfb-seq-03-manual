@@ -16,7 +16,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	1. Last step (affects all Bars)
 	2. clock division
 	|	
-	|	(3-7 are track functions)
+	|	(3-7 are track functions, see below)
 	|
  	Bar length 
 	Bar up/down
@@ -63,7 +63,7 @@ ${\color{red} III. \space Track \space [per \space output] \space (track \space 
 		4. Square
 	7. Clr bar
         
-IV Step Edit (press select, step(s) selected blink(s)) (track light red)
+${\color{red} IV. \space Step \space Edit \space (press \space select, \space step(s) \space selected \space blink(s)) \space (track \space light \space red)}$
 	SELECT
 
 	Selected steps will blink. Press steps you want to edit

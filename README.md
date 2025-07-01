@@ -1,7 +1,7 @@
 # mfb-seq-03-manual
 Updated and imporoved users manual for the MFB SEQ-03 eurorack sequencer module
 
-Structure Summary
+### Structure Summary
 
 ```
 Pattern
@@ -15,6 +15,8 @@ Pattern
 - **Pattern**: A complete sequence containing all tracks.
 - **Track**: A single output lane mapped to one CV or gate output.
 - **Step**: A single time division in a track; defines gate state or CV value.
+
+### Operation 
 
 PRESS TRACK TO TOGGLE MUTE / PATTERN
 

@@ -18,7 +18,7 @@ Pattern
 
 ### Operation 
 
-PRESS TRACK TO TOGGLE MUTE / PATTERN
+PRESS TRACK TO TOGGLE ${\color{green}MUTE}$ / ${\color{red}PATTERN \space EDIT}$
 
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
   

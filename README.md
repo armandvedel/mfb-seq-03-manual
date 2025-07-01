@@ -6,8 +6,6 @@ mfb
 PRESS TRACK TO TOGGLE MUTE / PATTERN
 
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
-
- 	Like Roland Track Play Mode
   
 	Step keys toggle mute for each track
  

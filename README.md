@@ -84,7 +84,7 @@ ${\color{red} III. \space Track/Row/Output \space Settings \space (track \space 
 		2. Sawtooth Falling
 		3. Sine
 		4. Square
-	7. Clr bar
+	7. Clr bar: Clears the *track/row* not the bar
         
 ${\color{red} IV. \space Step \space Edit \space (track \space light \space red)}$
 

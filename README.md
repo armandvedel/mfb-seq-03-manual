@@ -7,6 +7,8 @@ PRESS TRACK TO TOGGLE MUTE / PATTERN
 
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
 
+ 	Like Roland Track Play Mode
+  
 	Step keys toggle mute for each track
  
 ${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space mode \space (track \space light \space red)}$

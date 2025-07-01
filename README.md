@@ -28,10 +28,10 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	15. sync I/O
 		1. internal clock / i/o output 16ths clock
 		2. internal clock / i/o output 24ppq clock
-		3. external clock bipolar 16ths / i/o input =  start / stop
-		4. external clock bipolar 24ppq / i/o input =  start / stop
-		5. external clock unipolar 16ths / i/o input =  reset
-		6. external clock unipolar 24ppq /  i/o input =  reset
+		3. external clock bipolar 16ths / unlit i/o input =  start / stop
+		4. external clock bipolar 24ppq / unlit i/o input =  start / stop
+		5. external clock unipolar 16ths / unlit i/o input =  reset
+		6. external clock unipolar 24ppq /  unlit i/o input =  reset
 	16. shuffle
 	Save Pattern (hold save + 1-16)
 	Load Pattern (hold load + 1-16)

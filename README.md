@@ -31,7 +31,7 @@ ${\color{green} I. \space Mute \space Mode \space (track \space light \space gre
 	6. LFO Type: All tracks shortcut
 	7. Clr Bar: Delete current bar in all tracks
  	
-${\color{red} II. \space Pattern \space Mode \space (global \space / \space all \space tracks) \space \ Settings \space (track \space light \space red)}$
+${\color{red} II. \space Pattern \space Settings \space (global \space / \space all \space tracks) \space \ (track \space light \space red)}$
 
 	SHIFT + 1-2, 8-16
 	

@@ -24,12 +24,12 @@ ${\color{green} I. \space Mute \space Mode \space (track \space light \space gre
   
 	Step keys toggle mute for each track
  	SHIFT + 3-7: Shortcuts to change track settings on all tracks at once
-  	
+
    	3. Trk Mode: All tracks shortcut
-    	4. Direction: All tracks shortcut
-     	5. Quantize: (Octave Range) All tracks shorcut
-      	6. LFO Type: All tracks shortcut
-       	7. Clr Bar: Delete current bar in all tracks
+  	4. Direction: All tracks shortcut
+    	5. Quantize: (Octave Range) All tracks shorcut
+     	6. LFO Type: All tracks shortcut
+      	7. Clr Bar: Delete current bar in all tracks
  	
 ${\color{red} II. \space Pattern \space Mode \space (global \space / \space all \space tracks) \space \ Settings \space (track \space light \space red)}$
 

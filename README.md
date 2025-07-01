@@ -64,7 +64,7 @@ ${\color{red} III. \space Track/Output \space Edit \space (track \space light \s
 		4. Square
 	7. Clr bar
         
-${\color{red} IV. \space Step \space Edit }$
+${\color{red} IV. \space Step \space Edit \space (track \space light \space red)}$
 
 	SELECT STEP(S): HOLD SELECT + STEP(S)
  

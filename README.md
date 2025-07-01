@@ -66,9 +66,9 @@ ${\color{red} III. \space Track/Output \space Edit \space (track \space light \s
         
 ${\color{red} IV. \space Step \space Edit }$
 
-	SELECT
-
-	Selected steps will blink. Press steps you want to edit
+	SELECT STEP(S): HOLD SELECT + STEP(S)
+ 
+	Selected steps will blink. 
 	Track Mode / Knob function
 		Note:	
 			Para 1 = CV

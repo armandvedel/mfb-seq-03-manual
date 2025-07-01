@@ -37,7 +37,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	Load Pattern (hold load + 1-16)
 	change Bank (hold shift + load patt)
 
-${\color{red} III. \space Track/Output \space Edit \space (track \space light \space red)}$
+${\color{red} III. \space Track/Row/Output \space Edit \space (track \space light \space red)}$
 	
  	SELECT TRACK: TRACK + 1-12
 	CHANGE SETTINGS: SHIFT + 3-7

@@ -24,7 +24,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	9. clr pattern
 	10. init pattern
 	11-13. Seq mode (default, 1 bar, cv+gate)
-	14. (sync) start mode (lit = dinsync start =5v, stop = 0v; not lit = gate start, gate stop)
+	14. (sync) start mode (lit = dinsync start =5v, stop = 0v;  unlit = gate start, gate stop)
 	15. sync I/O
 		1. internal clock / i/o output 16ths clock
 		2. internal clock / i/o output 24ppq clock

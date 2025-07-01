@@ -9,7 +9,7 @@ ${\color{green} I. \space Mute \space Mode \space (track \space light \space gre
   
 	Step keys toggle mute for each track
  
-${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space mode \space (track \space light \space red)}$
+${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space Mode \space \ Settings \space (track \space light \space red)}$
 
 	SHIFT + 1-2, 8-16
 	
@@ -37,7 +37,7 @@ ${\color{red} II. \space Pattern \space (global \space / \space all \space track
 	Load Pattern (hold load + 1-16)
 	change Bank (hold shift + load patt)
 
-${\color{red} III. \space Track/Row/Output \space Edit \space (track \space light \space red)}$
+${\color{red} III. \space Track/Row/Output \space Settings \space (track \space light \space red)}$
 	
  	SELECT TRACK: TRACK + 1-12
 	CHANGE SETTINGS: SHIFT + 3-7

@@ -9,7 +9,7 @@ ${\color{green} I. \space Mute \space Mode \space (track \space light \space gre
   
 	Step keys toggle mute for each track
  
-${\color{red} II. \space Pattern \space (global \space / \space all \space tracks) \space Mode \space \ Settings \space (track \space light \space red)}$
+${\color{red} II. \space Pattern \space Mode \space (global \space / \space all \space tracks) \space \ Settings \space (track \space light \space red)}$
 
 	SHIFT + 1-2, 8-16
 	

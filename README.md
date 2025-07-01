@@ -23,7 +23,7 @@ PRESS TRACK TO TOGGLE ${\color{green}Mute \space Mode}$ / ${\color{red}Pattern \
 ${\color{green} I. \space Mute \space Mode \space (track \space light \space green)}$
   
 	Step keys toggle mute for each track
- 	SHIFT + 3-7: Shortcuts to change track settings on all tracks at once (see III. Track/Row/Output Settings below)
+ 	SHIFT + 3-7: Shortcuts to change track settings on all tracks at once (see III. Track Settings below)
 
    	3. Trk Mode: All tracks shortcut
   	4. Direction: All tracks shortcut
